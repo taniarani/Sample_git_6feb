@@ -1,0 +1,25 @@
+What is the use of version control ?
+
+->
+
+
+
+Artificats don't put in git?
+->Binary files 
+
+Differen tversion of Version control tool?
+->Centralized and distributal 
+Centralized is working only by internet and have only 1 repository i.e central and it cause locking.
+Dist- we can do offline 2 rep - remote and local. not causing lock.
+
+
+Who witten Git ?
+->Linux ,written in c 
+
+only save meta data use pointer and reference , commit id - 40 bits (unique).
+
+3 areas in local repository 
+
+CA commit area
+SA stage area 
+WA work area 
